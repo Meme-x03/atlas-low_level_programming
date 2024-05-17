@@ -1,2 +1,11 @@
-#!/bin/bash
-gcc -o 4-puts_0 -Wall -Werror -Wextra -pedantic -std=gnu89 4-puts.c
+#include <stdio.h>
+
+int main() {
+	//String initialization
+	char Mystr[] = "Programming is like building a multilingual puzzle";
+
+	// Using puts() to write the string to stdout
+	puts(Mystr);
+
+	return 0;
+}
