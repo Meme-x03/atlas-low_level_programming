@@ -1,2 +1,2 @@
 #!/bin/bash
-int main () { printf("Name : cisfunaa"); return 0 }
+rm -rf cisfun ; export CFILE=3-main.c ; gcc -o cisfun $CFILE ; ls | grep cisfun ; rm cisfun
