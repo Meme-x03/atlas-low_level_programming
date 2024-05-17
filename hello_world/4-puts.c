@@ -10,6 +10,5 @@ int main(void)
 
 {
 	puts("\"Programming is like a building multilingual");
-
 	return (0);
 }
