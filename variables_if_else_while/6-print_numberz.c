@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include <stdio.h> 
 
-/* 
- * main - Numberz 
- * Always Success
+/**
+ * main - Numberz
+ * Return: Success
  */
 
 int main(void)
