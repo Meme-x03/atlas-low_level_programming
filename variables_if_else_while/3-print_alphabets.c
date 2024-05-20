@@ -2,9 +2,11 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* main - Print Lowercase and Uppercase alphabet
- * Return: Always 0 (Success)
+/**
+ * main - Print Lower and Upper case alphabet
+ * Return: Always 0
  */
+
 
 int main(void)
 
