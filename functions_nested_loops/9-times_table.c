@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * time_table - Prints the 9 time table, staring with 0
+ * times_table - Prints the 9 times table, staring with 0
  * Return: empty output
  */
 
-void time_table(void)
+void times_table(void)
 {
 	int x, y, z, u, d;
 
