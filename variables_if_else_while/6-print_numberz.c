@@ -3,10 +3,9 @@
 #include <time.h>
 
 /**
- * main - Numberz
- * Always 0 (Excelent)
+ * main - Entry point
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 
 {
