@@ -2,6 +2,9 @@
 
 /**
  * _memcpy - Entry Point
+ * @dest: input
+ * @src: input
+ * @n: input
  * Return: Always 0 (success)
  */
 
