@@ -6,7 +6,7 @@
 #include <stdlib.h>
 
 /**
- * Read_textfile - This reads a text and prints it to POSIX stdo
+ * read_textfile - This reads a text and prints it to POSIX stdo
  * @filename: name of the file to read
  * @letters: number of the letters it should read and print
  * Return: actual number of letters it could read and print
