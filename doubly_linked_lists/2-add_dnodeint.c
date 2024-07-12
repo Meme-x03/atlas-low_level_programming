@@ -4,7 +4,7 @@
  * add_dnoideint - adds a new head node to dlist
  * @head: address of pointer to current head node
  * @n: value of the element
- * Return: The addres of the new element
+ * Return: The addres of the new node or NULL
  */
 
 dlistint_t *add_dnodeint(dlistint_t **head, const int n)
