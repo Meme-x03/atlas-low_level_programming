@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /*
- * add_dnoideint - add a node in the link list in the beginnig
+ * add_dnoideint - adds a new head node
  * @head: head of the list
  * @n: value of the element
  * Return: The addres of the new element
