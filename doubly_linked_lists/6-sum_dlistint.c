@@ -1,9 +1,9 @@
 #include "lists.h"
 
 /*
- * sum_dlistint - returns the sum of all the data
- * @head: head of the list
- * Return: sum of the data
+ * sum_dlistint - sums the value of a dlist
+ * @head: pointer to current head node
+ * Return: int sum of values
  */
 
 int sum_dlistint(dlistint_t *head)
